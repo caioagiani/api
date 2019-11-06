@@ -1,0 +1,11 @@
+// Criar um formulário simples em html com um único campo CPF e o botão submit;
+// Fazer uma validação em javascript antes de fazer o post;
+// Consumir o WS https://bi.vidaclass.com.br/utils para consultar informações do CPF enviado pelo form;
+// Do retorno obtido exibir na tela:
+
+// Nome, email, telefone
+// Se tem compra em saude: Sim | Não
+// Quantas compras: (5) ex.
+// Se tem farma: Sim | Não
+// Se tem dependente: Sim | Não
+// Qtd. de dependentes: (2) ex.
